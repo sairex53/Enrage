@@ -24,3 +24,6 @@ Tap Settings > General > VPN & Device Management. Tap to Trust button
 7. Open installed app.
 
 ## Well done!
+
+## Fixing errors:
+[https://github.com/sairex53/Enrage/issues/3#issue-2485285486](https://github.com/sairex53/Enrage/issues)

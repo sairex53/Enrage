@@ -1,5 +1,8 @@
+# [OUTDATED] 
+**Already don't working**
+
 # Welcome
-![Anime Girl](https://github.com/user-attachments/assets/3ec82e26-4955-4020-9fde-2a3bc5a568e1)<br>
+
 This is working exploit for **iOS 17.6.1** or **oldest**
 
 ## What's he doing?
